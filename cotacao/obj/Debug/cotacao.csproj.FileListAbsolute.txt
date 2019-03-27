@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\Sistema1\cotacao\cotacao\bin\Debug\cotacao.exe.config
+C:\Users\aluno\Desktop\Sistema1\cotacao\cotacao\bin\Debug\cotacao.exe
+C:\Users\aluno\Desktop\Sistema1\cotacao\cotacao\bin\Debug\cotacao.pdb
+C:\Users\aluno\Desktop\Sistema1\cotacao\cotacao\obj\Debug\cotacao.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\Sistema1\cotacao\cotacao\obj\Debug\cotacao.Form1.resources
+C:\Users\aluno\Desktop\Sistema1\cotacao\cotacao\obj\Debug\cotacao.Properties.Resources.resources
+C:\Users\aluno\Desktop\Sistema1\cotacao\cotacao\obj\Debug\cotacao.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Sistema1\cotacao\cotacao\obj\Debug\cotacao.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Sistema1\cotacao\cotacao\obj\Debug\cotacao.exe
+C:\Users\aluno\Desktop\Sistema1\cotacao\cotacao\obj\Debug\cotacao.pdb
